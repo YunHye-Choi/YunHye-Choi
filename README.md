@@ -4,12 +4,12 @@
 	
 </div>
 
-#### Welcome to my Github! 😉
-#### ✨ Skills
+### Welcome to my Github! 😉
+### ✨ Skills
 ##### ◾ JAVA, C, C++, VerilogHDL etc.
-#### 💘 Interests
+### 💘 Interests
 ##### ◾ Android application programming (JAVA)
 ##### ◾ Webservice using SpringBoot
 ##### ◾ Backend and Frontend
 ##### ◾ Learning new programming languages! (e.g. Kotlin, Python)
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Choi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Choi)](https://github.com/anuraghazra/github-readme-stats)
