@@ -4,13 +4,15 @@
 	
 </div>
 
-# JUNIOR Developer Yunhye ☘
-## Welcome to my Github! 😉
+# Junior Developer Yunhye ☘
+### Welcome to my Github! 😉
 ### ✨ Skills
-* JAVA, C, C++, VerilogHDL etc.
+* JAVA, C, C++, VerilogHDL language skill
+* Andriod application programming
 ### 💘 Interests
 * Android application programming (JAVA)
+* Navigation engine programming - Map matching
 * Webservice using SpringBoot with AWS
-* Learning programming languages! (e.g. Kotlin, Python)
+* Learning programming languages and skills (e.g. Kotlin, Python)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Choi)](https://github.com/anuraghazra/github-readme-stats)
