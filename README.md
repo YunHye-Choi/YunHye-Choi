@@ -15,4 +15,4 @@
 * Learning programming languages and skills (e.g. Kotlin, Python, machine learning etc.)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Choi)](https://github.com/anuraghazra/github-readme-stats)
-### 🤩 Projects that I made ⏬⏬ 
+### ⏬⏬ 🤩 Projects I am working on 💨💨 ⏬⏬ 
