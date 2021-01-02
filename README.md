@@ -8,7 +8,7 @@
 ### Welcome to my Github! 😉
 ### ✨ Skills
 * JAVA, C, C++, VerilogHDL language skill
-* Andriod application programming
+* Andriod application programming (JAVA)
 ### 💘 Interests
 * Navigation app for andriod - Map matching
 * Webservice using SpringBoot with AWS
