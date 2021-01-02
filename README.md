@@ -10,9 +10,8 @@
 * JAVA, C, C++, VerilogHDL language skill
 * Andriod application programming
 ### 💘 Interests
-* Android application programming (JAVA)
-* Navigation engine programming - Map matching
+* Navigation app for andriod - Map matching
 * Webservice using SpringBoot with AWS
-* Learning programming languages and skills (e.g. Kotlin, Python)
+* Learning programming languages and skills (e.g. Kotlin, Python, machine learning etc.)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Choi)](https://github.com/anuraghazra/github-readme-stats)
