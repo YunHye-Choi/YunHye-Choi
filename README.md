@@ -14,4 +14,4 @@
 * Webservice using SpringBoot with AWS
 * Learning programming languages and skills (e.g. Kotlin, Python, machine learning etc.)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YunHye-Choi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
