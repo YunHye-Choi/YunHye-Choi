@@ -11,4 +11,3 @@
 ### 💘 Interests!
 * Navigation app for andriod - Map matching
 * Webservice using SpringBoot with AWS
-* Learning programming languages and skills (e.g. Kotlin, Python, machine learning etc.)
