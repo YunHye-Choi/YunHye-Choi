@@ -11,3 +11,9 @@
 ### 💘 Interests
 * Navigation app for android - Map matching
 * Webservice using SpringBoot with AWS
+
+<a href="https://yunhye-choi.github.io">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
