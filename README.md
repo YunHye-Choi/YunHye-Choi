@@ -4,14 +4,16 @@
 	
 </div>
 
-# Welcome to my Github! 😉
+
+# Welcome to my Github! 😉 
+
 ### ✨ Skills
 * JAVA, C, C++ language skills
 * Andriod application programming (JAVA)
 ### 💘 Interests
 * Navigation app for android - Map matching
 * Webservice using SpringBoot with AWS
-
+### 💻 Tech Blog
 <a href="https://yunhye-choi.github.io">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
