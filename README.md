@@ -5,7 +5,7 @@
 # Welcome to my Github! 😉 
 
 ### ✨ Skills
-* JAVA, C, C++ language skills
+* JAVA, C language skills
 * Andriod application programming (JAVA)
 ### 💘 Interests
 * Navigation app for android - Map matching
