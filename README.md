@@ -8,5 +8,6 @@
 * JAVA, C language skills
 * Andriod application programming (JAVA)
   - Navigation app for android
+* Web programming (Node.js, Express.js)
 ### 💘 Interests
 * Webservice using SpringBoot with AWS
