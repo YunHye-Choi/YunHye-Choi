@@ -7,6 +7,6 @@
 ### ✨ Skills
 * JAVA, C language skills
 * Andriod application programming (JAVA)
+  - Navigation app for android
 ### 💘 Interests
-* Navigation app for android - Map matching
 * Webservice using SpringBoot with AWS
