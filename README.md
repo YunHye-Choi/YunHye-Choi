@@ -4,6 +4,8 @@
 
 # Welcome to my Github! 😉 
 
+### 🏢 Work Experiences
+* Internship at Bankware Global (2021.07. ~ 2021.12.) 
 ### ✨ Skills
 * JAVA, C language skills
 * Andriod application programming (JAVA)
