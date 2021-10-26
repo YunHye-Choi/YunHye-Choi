@@ -6,8 +6,9 @@
 
 ### 🏢 Work Experiences
 * Internship at Bankware Global (2021.07. ~ 2021.12.) 
+  - LINE BANK JAPAN Project
 ### ✨ Skills
-* JAVA, C language skills
+* JAVA, C, javascript language skills
 * Andriod application programming (JAVA)
   - Navigation app for android
 * Web programming (Node.js)
