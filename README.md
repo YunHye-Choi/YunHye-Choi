@@ -7,7 +7,7 @@
 ### 🏢 Work Experiences
 * Internship at Bankware Global (2021.07. ~ 2021.12.) 
   - LINE BANK JAPAN Project 
-    - 여신 배치 프로그램 개발 (JAVA)
+    - 여신 배치 프로그램 개발 (CoreBanking: JAVA)
     - 테스트 스크립트 작성 및 관리 (Node.js) 
 ### ✏ Study
 * 2021 한국컴퓨터종합학술대회 (KCC2021) "보행자 내비게이션 앱에서의 맵 매칭 정확도 향상을 위한 휴리스틱 알고리즘" 논문 게재
