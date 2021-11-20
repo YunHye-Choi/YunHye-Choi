@@ -9,6 +9,7 @@
   - LINE BANK JAPAN Project
 ### ✏ Study
 * 2021 한국컴퓨터종합학술대회 (KCC2021) "보행자 내비게이션 앱에서의 맵 매칭 정확도 향상을 위한 휴리스틱 알고리즘" 논문 게재
+  - https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583472
 ### 🥇 Awards
 * 2021 한국컴퓨터종합학술대회 학부생/주니어 논문경진대회 학부생부문 장려상
   - 제목: 보행자 내비게이션 앱에서의 맵 매칭 정확도 향상을 위한 휴리스틱 알고리즘
