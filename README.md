@@ -4,10 +4,11 @@
 
 # Welcome to my Github! 😉 
 
-### 🏢 Education
-* Bachelor of Science in Computer Information Engineering, KwangWoon University, 2017 - 2022 
+### 👩‍🎓 Education
+* B.S in Computer Information Engineering, KwangWoon University, 2017 - 2022 
 ### 🏢 Work Experiences
-* Internship at Bankware Global (2021.07. ~ 2021.12.) 
+* Developer at ***Bankware Global*** (2022.01. ~ ing) 
+* Internship at ***Bankware Global*** (2021.07. ~ 2021.12.) 
   - LINE BANK JAPAN Project 
     - 여신 온라인 서비스, 행원 화면, 배치 프로그램 개발 (BE: Java/Spring, FE: JavaScript/Angular.js, DB: Oracle)
     - 테스트 스크립트 작성 및 관리 (Node.js CLI Program) 
