@@ -4,6 +4,8 @@
 
 # Welcome to my Github! 😉 
 
+### 🏢 Education
+* Bachelor of Science in Computer Information Engineering, KwangWoon University, 2017 - 2022 
 ### 🏢 Work Experiences
 * Internship at Bankware Global (2021.07. ~ 2021.12.) 
   - LINE BANK JAPAN Project 
