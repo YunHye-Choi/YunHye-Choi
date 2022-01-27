@@ -4,6 +4,7 @@
 
 # Welcome to my Github! 😉 
 
+
 ### 👩‍🎓 Education
 * B.S in Computer Information Engineering, ***KwangWoon University***, 2017 - 2022 
 ### 🏢 Work Experiences
