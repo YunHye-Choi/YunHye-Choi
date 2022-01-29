@@ -8,8 +8,8 @@
 ### 👩‍🎓 Education
 * B.S in Computer Information Engineering, ***KwangWoon University***, 2017 - 2022 
 ### 🏢 Work Experiences
-* Developer in ***[Bankware Global](https://bankwareglobal.com/)*** (2022.01. ~ ing) 
-* Internship in ***Bankware Global*** (2021.07. ~ 2021.12.) 
+* Texh Internship in KakaoBank - Financial IT (2022.02. ~ ing) 
+* Internship in ***[Bankware Global](https://bankwareglobal.com/)*** (2021.07. ~ 2021.12.) 
   - LINE BANK JAPAN Project 
     - 여신 온라인 서비스, 행원 화면, 배치 프로그램 개발 (BE: Java/Spring, FE: JavaScript/Angular.js, DB: Oracle)
     - 테스트 스크립트 작성 및 관리 (Node.js CLI Program) 
