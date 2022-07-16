@@ -8,7 +8,7 @@
 ### 👩‍🎓 Education
 * B.S in Computer Information Engineering, ***KwangWoon University***, 2017 - 2022 
 ### 🏢 Work Experiences
-* Backend Dev in ***TmaxAI*** - Using Java, Springboot, JPA, PostgreSQL, Tibero
+* Backend Dev in ***TmaxAI*** - Using Java, Springboot, JPA, PostgreSQL, Tibero (2022.07. ~ ing)
 * Tech Internship in ***[kakaobank](https://www.kakaobank.com/)*** - Financial IT (2022.02. ~ 2022.04.) 
 * Internship in ***[Bankware Global](https://bankwareglobal.com/)*** (2021.07. ~ 2021.12.) 
   - LINE BANK JAPAN Project 
