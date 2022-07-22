@@ -26,7 +26,7 @@
   - https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583472
 ### ✨ Skills
 * Java(Android, Spring), Javascript(Angular.js, Node.js)
+* Backend Dev using Spring/Springboot
 * Core Banking System Development 
-* Web Front End (JavaScript/Angular.js)
 * Andriod application programming (JAVA)
   - Navigation app for android
