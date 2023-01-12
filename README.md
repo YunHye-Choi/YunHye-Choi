@@ -25,8 +25,7 @@
 * 최윤혜, 홍세정, 박유림, 신재경, 이혁준 ***"보행자 내비게이션 앱에서의 맵 매칭 정확도 향상을 위한 휴리스틱 알고리즘"***, 2021 한국컴퓨터종합학술대회 (KCC2021)
   - https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583472
 ### ✨ Skills
-* Java(Android, Spring), Javascript(Angular.js, Node.js)
+* Java(Android, Spring)
 * Backend Dev using Spring/Springboot
-* Core Banking System Development 
 * Andriod application programming (JAVA)
   - Navigation app for android
