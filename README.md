@@ -8,4 +8,5 @@
 - Internship in ***[Bankware Global](https://bankwareglobal.com/)*** (2021.07. ~ 2021.12.) 
 ### 😏 Skill Set
 - Java, Spring, Spring Boot, Tibero, Oracle
+- Phython, FastAPI, MongoDB, Opensearch, RabbitMQ
 - Docker, Git, Gitlab CI/CD, Jenkins Pipeline
